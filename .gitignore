@@ -1,0 +1,14 @@
+# Fichiers d'environnement
+.env.local
+.env
+*.env
+
+# Node modules
+node_modules/
+npm-debug.log*
+yarn-error.log*
+yarn-debug.log*
+
+# Autres
+.DS_Store
+*.log
